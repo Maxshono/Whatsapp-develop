@@ -3,3 +3,5 @@ profile page
 status
 camera
 messaging
+hide the camera
+
